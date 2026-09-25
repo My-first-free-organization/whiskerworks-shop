@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": "lp3000",
+      "name": "Laser Pointer 3000",
+      "category": "tech",
+      "price": 29.99,
+      "inStock": true,
+      "knockedOffCounter": 47
+    },
+    {
+      "id": "ctnp-org",
+      "name": "Organic Catnip Pouch",
+      "category": "food",
+      "price": 12.99,
+      "inStock": true,
+      "knockedOffCounter": 3
+    },
+    {
+      "id": "box-dlx",
+      "name": "Cardboard Box Deluxe",
+      "category": "beds",
+      "price": 4.99,
+      "inStock": true,
+      "knockedOffCounter": 0
+    },
+    {
+      "id": "mse-rob",
+      "name": "Robotic Mouse Pro",
+      "category": "toys",
+      "price": 34.99,
+      "inStock": false,
+      "knockedOffCounter": 128
+    },
+    {
+      "id": "col-gps",
+      "name": "GPS Cat Collar",
+      "category": "tech",
+      "price": 49.99,
+      "inStock": true,
+      "knockedOffCounter": 12
+    },
+    {
+      "id": "fnt-auto",
+      "name": "Auto Cat Fountain",
+      "category": "accessories",
+      "price": 39.99,
+      "inStock": true,
+      "knockedOffCounter": 8
+    }
+  ]
+}
