@@ -1,0 +1,7 @@
+# WhiskerWorks Code Owners
+# The cats who must approve before merge
+
+* @My-first-free-organization/purr-reviewers
+src/components/ @My-first-free-organization/cat-wranglers
+.github/ @My-first-free-organization/litter-box-ops
+infra/ @My-first-free-organization/litter-box-ops
