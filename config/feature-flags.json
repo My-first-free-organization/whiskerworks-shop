@@ -1,7 +1,7 @@
 {
   "flags": {
-    "treat-dispenser_enabled": false,
+    "water-fountain_enabled": true,
     "new_checkout": false,
-    "round": 127
+    "round": 128
   }
 }
