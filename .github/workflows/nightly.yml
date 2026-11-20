@@ -1,0 +1,21 @@
+name: Shop Nightly
+
+on:
+  workflow_dispatch:
+    inputs:
+      suite:
+        default: smoke
+  push:
+    branches: [develop]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: echo "Running ${{ inputs.suite || 'push' }} suite" && date > build-info.txt
+      - uses: actions/upload-artifact@v4
+        with:
+          name: build-info
+          path: build-info.txt
+          retention-days: 7
