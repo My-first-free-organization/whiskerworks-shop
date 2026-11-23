@@ -1,7 +1,7 @@
 {
   "flags": {
-    "gps-collar_enabled": false,
-    "new_checkout": true,
-    "round": 129
+    "heated-bed_enabled": true,
+    "new_checkout": false,
+    "round": 130
   }
 }
