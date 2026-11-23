@@ -1,5 +1,5 @@
 # Changelog
 
-## Sprint 129 (2026-11-23 06:29)
-- GPS collar: recommendations service hardening
+## Sprint 130 (2026-11-23 08:40)
+- heated bed: checkout service hardening
 - Retry policy aligned with platform defaults
