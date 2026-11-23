@@ -1,7 +1,7 @@
 {
   "flags": {
-    "water-fountain_enabled": true,
-    "new_checkout": false,
-    "round": 128
+    "gps-collar_enabled": false,
+    "new_checkout": true,
+    "round": 129
   }
 }
