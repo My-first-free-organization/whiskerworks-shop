@@ -9,7 +9,7 @@ export interface PuzzleFeederSearchRequest {
 
 export class PuzzleFeederSearchService {
   private readonly log = new Logger('puzzle-feeder-search');
-  private readonly maxRetries = 4;
+  private readonly maxRetries = 2;
 
   async handle(req: PuzzleFeederSearchRequest): Promise<boolean> {
     if (!req.sku || req.quantity <= 0) {
