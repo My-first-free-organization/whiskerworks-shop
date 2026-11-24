@@ -1,7 +1,7 @@
 {
   "flags": {
-    "puzzle-feeder_enabled": false,
+    "litter-box_enabled": true,
     "new_checkout": false,
-    "round": 133
+    "round": 134
   }
 }
