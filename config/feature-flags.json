@@ -1,7 +1,7 @@
 {
   "flags": {
-    "grooming-brush_enabled": true,
-    "new_checkout": true,
-    "round": 132
+    "puzzle-feeder_enabled": false,
+    "new_checkout": false,
+    "round": 133
   }
 }
