@@ -1,5 +1,5 @@
 # Changelog
 
-## Sprint 134 (2026-11-24 12:40)
-- litter box: payments service hardening
+## Sprint 135 (2026-11-24 16:40)
+- cat carrier: shipping service hardening
 - Retry policy aligned with platform defaults
