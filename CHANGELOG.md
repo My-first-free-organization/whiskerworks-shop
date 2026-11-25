@@ -1,5 +1,5 @@
 # Changelog
 
-## Sprint 138 (2026-11-25 12:40)
-- cat harness: inventory service hardening
+## Sprint 139 (2026-11-25 16:40)
+- smart feeder: notifications service hardening
 - Retry policy aligned with platform defaults
