@@ -1,5 +1,5 @@
 # Changelog
 
-## Sprint 136 (2026-11-25 06:20)
-- kibble subscription: reviews service hardening
+## Sprint 137 (2026-11-25 08:40)
+- dental chews: loyalty service hardening
 - Retry policy aligned with platform defaults
