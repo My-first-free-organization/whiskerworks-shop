@@ -1,5 +1,5 @@
 # Changelog
 
-## Sprint 137 (2026-11-25 08:40)
-- dental chews: loyalty service hardening
+## Sprint 138 (2026-11-25 12:40)
+- cat harness: inventory service hardening
 - Retry policy aligned with platform defaults
