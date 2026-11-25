@@ -1,7 +1,7 @@
 {
   "flags": {
-    "cat-carrier_enabled": false,
-    "new_checkout": true,
-    "round": 135
+    "kibble-subscription_enabled": true,
+    "new_checkout": false,
+    "round": 136
   }
 }
