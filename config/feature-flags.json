@@ -1,7 +1,7 @@
 {
   "flags": {
-    "kibble-subscription_enabled": true,
+    "dental-chews_enabled": false,
     "new_checkout": false,
-    "round": 136
+    "round": 137
   }
 }
