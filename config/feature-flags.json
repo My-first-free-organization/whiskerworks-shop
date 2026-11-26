@@ -1,7 +1,7 @@
 {
   "flags": {
-    "smart-feeder_enabled": false,
+    "laser-pointer_enabled": true,
     "new_checkout": false,
-    "round": 139
+    "round": 140
   }
 }
