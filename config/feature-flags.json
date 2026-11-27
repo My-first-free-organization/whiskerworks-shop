@@ -1,7 +1,7 @@
 {
   "flags": {
-    "scratching-post_enabled": true,
+    "feather-wand_enabled": false,
     "new_checkout": false,
-    "round": 142
+    "round": 143
   }
 }
