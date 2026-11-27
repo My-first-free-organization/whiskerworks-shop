@@ -1,7 +1,7 @@
 {
   "flags": {
-    "tunnel_enabled": false,
+    "mouse-toy_enabled": true,
     "new_checkout": false,
-    "round": 145
+    "round": 146
   }
 }
