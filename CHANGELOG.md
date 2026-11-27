@@ -1,5 +1,5 @@
 # Changelog
 
-## Sprint 143 (2026-11-27 06:16)
-- feather wand: checkout service hardening
+## Sprint 144 (2026-11-27 08:40)
+- cat tree: cart service hardening
 - Retry policy aligned with platform defaults
