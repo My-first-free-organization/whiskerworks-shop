@@ -1,5 +1,5 @@
 # Changelog
 
-## Sprint 145 (2026-11-27 12:41)
-- tunnel: catalog service hardening
+## Sprint 146 (2026-11-27 16:40)
+- mouse toy: search service hardening
 - Retry policy aligned with platform defaults
