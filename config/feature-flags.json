@@ -1,7 +1,7 @@
 {
   "flags": {
-    "mouse-toy_enabled": true,
-    "new_checkout": false,
-    "round": 146
+    "treat-dispenser_enabled": false,
+    "new_checkout": true,
+    "round": 147
   }
 }
