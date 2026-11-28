@@ -9,7 +9,7 @@ export interface MouseToySearchRequest {
 
 export class MouseToySearchService {
   private readonly log = new Logger('mouse-toy-search');
-  private readonly maxRetries = 3;
+  private readonly maxRetries = 6;
 
   async handle(req: MouseToySearchRequest): Promise<boolean> {
     if (!req.sku || req.quantity <= 0) {
